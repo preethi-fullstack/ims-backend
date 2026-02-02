@@ -43,8 +43,7 @@ Run InventorySystemApplication.java as a Java application
 Backend will run on http://localhost:8080/
 
 --->Contribution
-This repo is mainly for demonstration as part of my full stack project.
-The frontend communicates with this backend via REST API.
+
 
 This repo is mainly for demonstration as part of my full stack project.
 The frontend communicates with this backend via REST API.
